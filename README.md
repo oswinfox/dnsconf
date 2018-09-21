@@ -26,15 +26,18 @@ sudo dnsconf.sh outside
 
 Here you can chnge it to customize as you need it. DNS1 is for work, DNS2 for home and DNS 3 & 4 for outside. 
 
-
+<pre>
 DNS1="nameserver X.X.X.X"
 DNS2="nameserver X.X.X.X"
 DNS3="nameserver 208.67.222.222"
 DNS4="nameserver 208.67.220.220"
+</pre>
 
 ### SEARCH
 
 Here add custom domain for resolving purpose.
 
+<pre>
 SEA1="search your_domain"
 SEA2="search your.domain"
+</pre>

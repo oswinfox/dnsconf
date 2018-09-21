@@ -24,7 +24,7 @@ sudo dnsconf.sh outside
 
 ###  DNS
 
-Here you can chnge it to customize as you need it. DNS1 is for work, DNS2 for home and DNS 3 & 4 for outside. 
+Here you can change to customize the script as you need it to work. DNS1 is for work, DNS2 for home and DNS 3 & 4 for outside. 
 
 <pre>
 DNS1="nameserver X.X.X.X"

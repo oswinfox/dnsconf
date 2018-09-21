@@ -3,7 +3,7 @@
 An attempt to solve the DNS issue with Ubuntu 18.04. 
 
 I had some issue with DNS masq and the file _/etc/resolv.conf_. After follow lot of discussion and fix that works @ half. I decided
-to makethis script to manually solve my issue. 
+to make this script to solve my issue. 
 
 ## run 
 
